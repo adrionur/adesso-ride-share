@@ -1,0 +1,28 @@
+[
+  {
+    "Id": "1e3bf0a4-d028-4051-bfc5-b0f4a8ef7bf1",
+    "From": "City1",
+    "To": "City",
+    "Date": "2022-11-26T20:50:08.775Z",
+    "Description": "string",
+    "NumberOfSeats": 3,
+    "IsPublished": true,
+    "Passengers": [
+      {
+        "NationalId": "1961",
+        "Name": "Greg",
+        "Surname": "Osterhund"
+      },
+      {
+        "NationalId": "1961",
+        "Name": "Greg",
+        "Surname": "Osterhunden"
+      },
+      {
+        "NationalId": "1961",
+        "Name": "Greg",
+        "Surname": "Osterhunden"
+      }
+    ]
+  }
+]
